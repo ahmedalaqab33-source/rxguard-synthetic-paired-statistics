@@ -1,0 +1,23 @@
+{
+  "schema": "source-provenance/1",
+  "files": [
+    {
+      "release_path": "paired_stats_v1.py",
+      "source_label": "RxGuard-VancoSafe/tools/evidence_trace_synthetic_v1/paired_stats_v1.py",
+      "sha256": "5ea911cc1759da93d783df61e6f131273a9c60be29a68faf55d8baf967216492",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "test_paired_stats_v1.py",
+      "source_label": "RxGuard-VancoSafe/tools/evidence_trace_synthetic_v1/test_paired_stats_v1.py",
+      "sha256": "697e368e43bc4bfc768526c41b79b01ff79eebabf78e4895211944e6291648ac",
+      "changes": "None; byte-preserved"
+    },
+    {
+      "release_path": "paired_stats_v1.R",
+      "source_label": "RxGuard-VancoSafe/tools/evidence_trace_synthetic_v1/paired_stats_v1.R",
+      "sha256": "2b3c1a1ae3c6c037cc1b18d5adee3c211df95d386797fe65095f17b7f4bae3b6",
+      "changes": "None; byte-preserved"
+    }
+  ]
+}

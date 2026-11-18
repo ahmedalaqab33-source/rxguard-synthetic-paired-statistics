@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+.env
+.env.*
+*.pem
+*.key
+*.parquet
+*.duckdb*
+*.sqlite*
+*.csv
+outputs/
+private/
+run-output*/
